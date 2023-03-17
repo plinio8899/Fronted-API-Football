@@ -1,0 +1,20 @@
+header
+{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: white;
+}
+.navigation a
+{
+    padding: 10px;
+    margin-left: 10px;
+    text-decoration: none;
+    color: white;
+}
+.navigation a:hover
+{
+    background-color: white;
+    color: green;
+    border-radius: 16px;
+}
